@@ -2,10 +2,8 @@
 ## Description
 It takes two coordinates on the cartesian plane and calculates the distance
 ## How to run
-1. Open the program file in VS Code, Replit, or Google Colab.
-2. Run the program.
-3. Enter the values for x1, y1, x2, and y2.
-4. Check the distance displayed on the screen.
+1. Open the file in Visual Studio Code or Google Colab.
+2. Enter x1, y1, x2, and y2 where the first coordinate is (x1,y1) and the second is (x2,y2)
 ## Input Needed
 - x1
 - y1
